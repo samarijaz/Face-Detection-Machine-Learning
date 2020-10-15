@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Face-Detection-Machine-Learning/static/css/main.4b3d2a42.chunk.css",
+    "main.js": "/Face-Detection-Machine-Learning/static/js/main.ab98e1e2.chunk.js",
+    "main.js.map": "/Face-Detection-Machine-Learning/static/js/main.ab98e1e2.chunk.js.map",
+    "runtime-main.js": "/Face-Detection-Machine-Learning/static/js/runtime-main.71d8acd6.js",
+    "runtime-main.js.map": "/Face-Detection-Machine-Learning/static/js/runtime-main.71d8acd6.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/Face-Detection-Machine-Learning/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.27dcdcf3.chunk.js": "/Face-Detection-Machine-Learning/static/js/2.27dcdcf3.chunk.js",
+    "static/js/2.27dcdcf3.chunk.js.map": "/Face-Detection-Machine-Learning/static/js/2.27dcdcf3.chunk.js.map",
+    "index.html": "/Face-Detection-Machine-Learning/index.html",
+    "precache-manifest.4a653179826401b12061520b24031139.js": "/Face-Detection-Machine-Learning/precache-manifest.4a653179826401b12061520b24031139.js",
+    "service-worker.js": "/Face-Detection-Machine-Learning/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/Face-Detection-Machine-Learning/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.4b3d2a42.chunk.css.map": "/Face-Detection-Machine-Learning/static/css/main.4b3d2a42.chunk.css.map",
+    "static/js/2.27dcdcf3.chunk.js.LICENSE.txt": "/Face-Detection-Machine-Learning/static/js/2.27dcdcf3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.71d8acd6.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.27dcdcf3.chunk.js",
+    "static/css/main.4b3d2a42.chunk.css",
+    "static/js/main.ab98e1e2.chunk.js"
+  ]
+}
